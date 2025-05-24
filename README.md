@@ -79,29 +79,12 @@
 
 ---
 
-
-### **🌐 Cat Image Sources**
-
-```json
-{
-  "primary_apis": [
-    "cataas.com - Cat as a Service",
-    "thecatapi.com - The Cat API"
-  ],
-  "fallback_system": "If APIs fail, shows cute cat emoji",
-  "image_optimization": "180×140px for fast loading",
-  "connection_handling": "Automatic retry with different sources"
-}
-```
-
-
-
 <div align="center">
 
 
 **Meowdexter v1.0** • *Free Forever* • *Privacy Friendly* • *No Ads*
 
-[📥 **Download Extension**](https://github.com/username/meowdexter/archive/main.zip) • [⭐ **Star Project**](https://github.com/username/meowdexter) • [🐛 **Report Issues**](https://github.com/username/meowdexter/issues)
+[📥 **Download Extension**](https://github.com/najibnahindev/meowdexter/archive/main.zip) • [⭐ **Star Project**](https://github.com/najibnahindev/meowdexter) • [🐛 **Report Issues**](https://github.com/najibnahindev/meowdexter/issues)
 
 **Installation: 2 minutes** • **Setup: Zero configuration** • **Happiness: Guaranteed**
 
