@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "Meowdexter",
+  "version": "1.0",
+  "description": "Shows a floating cat picture every 20 seconds on every tab.The ultimate Chrome extension that brings adorable cats to your browsing experience",
+  "permissions": [
+    "activeTab"
+  ],
+  "host_permissions": [
+    "https://*/*",
+    "http://*/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_end"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["close-icon.svg"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
